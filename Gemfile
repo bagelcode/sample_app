@@ -4,7 +4,7 @@ ruby '2.1.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
-group :dvelopment, :test do
+group :development, :test do
 gem 'sqlite3', '1.3.8'
 gem 'rspec-rails', '2.13.1'
 end
